@@ -8,12 +8,6 @@ const nextConfig = {
       'files.stripe.com'
     ]
   },
-
-  experimental: {
-    images: {
-      allowFutureImage: true,
-    },
-  },
 }
 
 module.exports = nextConfig

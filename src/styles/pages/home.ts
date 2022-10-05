@@ -17,6 +17,7 @@ export const Product = styled('a', {
     alignItems: "center",
     justifyContent: 'center',
     minWidth: 540,
+    
 
     img: {
         objectFit: "cover"
@@ -42,6 +43,7 @@ export const Product = styled('a', {
 
        strong: {
         fontSize: "$lg",
+        color: "$gray100",
         },
 
         span: {
